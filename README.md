@@ -88,13 +88,10 @@ The dashboard consolidates all metrics into a single interactive view:
 - **Patients by Department Referral:** Horizontal bar chart
 - **Month & Year Filters:** For dynamic, on-demand analysis
 
-<img width="959" height="539" alt="Dashboard" src="https://github.com/user-attachments/assets/d0245f21-cc7e-405d-a4a9-1545e06eb4be" />
-
-<img width="959" height="539" alt="Daily ER No  Of Patient" src="https://github.com/user-attachments/assets/11d3157a-4cb5-47cd-80f8-1dd869f53ee6" />
-
-<img width="959" height="539" alt="Average Wait Time" src="https://github.com/user-attachments/assets/b8a485da-eb8a-498a-89f0-6d1da79fbd01" />
-
-<img width="959" height="539" alt="Satisfaction Score Trend" src="https://github.com/user-attachments/assets/db2c7dd5-00b6-4706-966d-a2b32bcd34a9" />
+<img width="959" height="539" alt="Dashboard" src="https://github.com/user-attachments/assets/d0245f21-cc7e-405d-a4a9-1545e06eb4be" /><br>
+<img width="959" height="539" alt="Daily ER No  Of Patient" src="https://github.com/user-attachments/assets/11d3157a-4cb5-47cd-80f8-1dd869f53ee6" /><br>
+<img width="959" height="539" alt="Average Wait Time" src="https://github.com/user-attachments/assets/b8a485da-eb8a-498a-89f0-6d1da79fbd01" /><br>
+<img width="959" height="539" alt="Satisfaction Score Trend" src="https://github.com/user-attachments/assets/db2c7dd5-00b6-4706-966d-a2b32bcd34a9" /><br>
 
 ---
 
