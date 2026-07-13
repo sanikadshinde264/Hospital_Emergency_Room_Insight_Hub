@@ -112,6 +112,6 @@ The final dashboard provides a single-page, decision-ready view of ER operations
 
 ## 👤 Author
 
-**Sanika Shinde**
+**Sanika Shinde** <br>
 Data Analytics & ML Enthusiast | Python, SQL, Excel, Power BI, Tableau <br>
 📧 [sanikadshinde264@gmail.com] | 🔗 [https://www.linkedin.com/in/sanikadshinde264] 
