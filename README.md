@@ -3,7 +3,7 @@
 An end-to-end interactive Excel dashboard that analyzes Hospital Emergency Room (ER) operations — patient volume, wait times, satisfaction scores, admissions, and department referrals — to help hospital administrators make faster, data-driven decisions.
 
 ---
-## Live Demo
+## 🔗 Live Demo
 
 View the live interactive dashboard here:
 👉 https://view.officeapps.live.com/op/view.aspx?src=https://hospital-emergency-room-insight-hub-six.vercel.app/Hospital_Emergency_Room_Insight_Hub.xlsx
