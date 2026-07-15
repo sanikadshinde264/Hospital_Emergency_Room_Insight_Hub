@@ -6,10 +6,7 @@ An end-to-end interactive Excel dashboard that analyzes Hospital Emergency Room 
 ## 🔗 Live Demo
 
 View the live interactive dashboard here:
-👉 https://view.officeapps.live.com/op/view.aspx?src=https://hospital-emergency-room-insight-hub-six.vercel.app/Hospital_Emergency_Room_Insight_Hub.xlsx
-
-Hosted file (Vercel):
-👉 https://hospital-emergency-room-insight-hub-six.vercel.app/Hospital_Emergency_Room_Insight_Hub.xlsx
+👉 https://1drv.ms/f/c/a17812b8b4c96e64/IgBKasxfi9g3QZQYplt11E-zAbuOILbsE_WFuBFRFuOI7f8?e=XhJYIR
 
 ---
 ## 📌 Brief Summary
