@@ -86,8 +86,6 @@ The dashboard consolidates all metrics into a single interactive view:
 - **Patients by Age Group:** Bar chart
 - **Patients by Department Referral:** Horizontal bar chart
 - **Month & Year Filters:** For dynamic, on-demand analysis
----
-📊 Results
 
 <img width="959" height="539" alt="Dashboard" src="https://github.com/user-attachments/assets/d0245f21-cc7e-405d-a4a9-1545e06eb4be" />
 <img width="959" height="539" alt="Daily ER No  Of Patient" src="https://github.com/user-attachments/assets/11d3157a-4cb5-47cd-80f8-1dd869f53ee6" />
