@@ -1,22 +1,16 @@
 # 🏥 Hospital Emergency Room Insight Hub
 
+## 📝 One-Line Summary
 An end-to-end interactive Excel dashboard that analyzes Hospital Emergency Room (ER) operations — patient volume, wait times, satisfaction scores, admissions, and department referrals — to help hospital administrators make faster, data-driven decisions.
-
----
-## 📌 Brief Summary
-
-This project transforms raw, messy Emergency Room admission data into a clean, interactive Excel dashboard. It tracks key operational metrics like patient count, average wait time, and satisfaction score, and breaks them down by month, age group, gender, department, and admission status — enabling quick identification of bottlenecks and trends in ER performance.
 
 ---
 
 ## 🔎 Overview
-
 Emergency Rooms handle high patient volumes under time-sensitive conditions, making operational visibility critical. This dashboard consolidates a full year of ER patient records into a single interactive report, allowing stakeholders to filter by year and month and instantly see how patient load, wait times, and satisfaction are trending — without digging through raw spreadsheets.
 
 ---
 
 ## ❓ Problem Statement
-
 Hospital administrators often lack a consolidated, easy-to-read view of ER performance. Raw patient-level data is difficult to interpret at a glance, making it hard to answer questions such as:
 - How many patients are being treated on time vs. delayed?
 - Which departments receive the most referrals?
@@ -27,8 +21,18 @@ This project addresses that gap by building a dynamic dashboard that answers the
 
 ---
 
-## 🗂️ Dataset
+## ✨ Features
+- 📊 Single-page, interactive Excel dashboard with KPI cards for at-a-glance metrics
+- 🎚️ Year and month slicers/timelines for dynamic, on-demand filtering
+- 🍩 Donut charts for on-time vs. delayed treatment and gender distribution
+- 📈 Area charts for daily patient volume and wait-time trends
+- 📶 Bar charts for age-group and department-referral breakdowns
+- 🧹 Cleaned and modeled dataset built with Power Query and Excel Tables
+- 🎨 Consistent color theme, custom icons, and a clean, readable layout
 
+---
+
+## 🗂️ Dataset
 - **File:** `Hospital Emergency Room Data.csv`
 - **Records:** ~9,200 patient entries
 - **Fields include:**
@@ -39,12 +43,9 @@ This project addresses that gap by building a dynamic dashboard that answers the
   - Patient Satisfaction Score
   - Patient Wait Time (minutes)
 
-*Note: Dataset used for educational purposes only.*
-
 ---
 
-## 🛠️ Tools and Technologies
-
+## 🛠️ Tools & Technologies
 - **Microsoft Excel** — Data cleaning, Pivot Tables, Pivot Charts, Dashboard design
 - **Power Query** — Data transformation and cleaning
 - **DAX / Excel Formulas** — KPI calculations
@@ -53,8 +54,7 @@ This project addresses that gap by building a dynamic dashboard that answers the
 
 ---
 
-## ⚙️ Methods
-
+## ⚙️ Methods / Methodology
 1. **Data Cleaning:** Removed duplicate columns, handled blank/null satisfaction scores, standardized date formats using Power Query.
 2. **Data Modeling:** Structured cleaned data into an Excel Table and built Pivot Tables for each KPI.
 3. **KPI Calculation:** Computed total patients, average wait time, and average satisfaction score using aggregate formulas.
@@ -64,19 +64,28 @@ This project addresses that gap by building a dynamic dashboard that answers the
 
 ---
 
-## 💡 Key Insights
-
-- Nearly an even split between **Admitted (49.55%)** and **Not Admitted (50.45%)** patients.
-- **43% of patients** experienced a delay in treatment, while 57% were attended on time.
-- **General Practice** and **Orthopedics** receive the highest volume of department referrals.
-- Patient gender distribution is fairly balanced (479 Female vs. 456 Male).
-- Daily patient wait times fluctuate between roughly 31–39 minutes, with visible spikes on specific days.
-- Patient satisfaction scores show day-to-day variability, useful for correlating with high-volume or high-delay days.
+## 📁 Project Directory Structure
+```
+Hospital-ER-Insight-Hub/
+│
+├── data/
+│   └── Hospital Emergency Room Data.csv     # Raw dataset
+│
+├── dashboard/
+│   └── Hospital ER Insight Hub.xlsx         # Final interactive Excel dashboard
+│
+├── images/
+│   ├── dashboard.png                        # Dashboard overview screenshot
+│   ├── daily_er_patients.png                # Daily patient trend screenshot
+│   ├── average_wait_time.png                # Wait time trend screenshot
+│   └── satisfaction_score_trend.png         # Satisfaction score trend screenshot
+│
+└── README.md                                # Project documentation
+```
 
 ---
 
 ## 📊 Dashboard
-
 The dashboard consolidates all metrics into a single interactive view:
 
 - **KPI Cards:** Total Patients, Average Wait Time, Patient Satisfaction Score
@@ -94,14 +103,32 @@ The dashboard consolidates all metrics into a single interactive view:
 
 ---
 
-## ✅ Conclusion
+## 💡 Key Insights
+- Nearly an even split between **Admitted (49.55%)** and **Not Admitted (50.45%)** patients.
+- **43% of patients** experienced a delay in treatment, while 57% were attended on time.
+- **General Practice** and **Orthopedics** receive the highest volume of department referrals.
+- Patient gender distribution is fairly balanced (479 Female vs. 456 Male).
+- Daily patient wait times fluctuate between roughly 31–39 minutes, with visible spikes on specific days.
+- Patient satisfaction scores show day-to-day variability, useful for correlating with high-volume or high-delay days.
 
+---
+
+## ✅ Results & Conclusion
 The final dashboard provides a single-page, decision-ready view of ER operations that would otherwise require manually parsing thousands of rows of raw data. It highlights operational pain points — such as delayed treatment rates and peak patient-load days — that hospital management can act on to improve patient flow and satisfaction.
 
 ---
 
-## 🚀 Future Work
+## ▶️ How to Run the Project
+1. **Clone or download** this repository to your local machine.
+2. Open the `data/Hospital Emergency Room Data.csv` file to review the raw dataset (optional).
+3. Open `dashboard/Hospital ER Insight Hub.xlsx` in **Microsoft Excel** (2016 or later recommended for full Power Query and slicer support).
+4. If prompted, click **Enable Editing** and **Enable Content** to allow data connections/queries to refresh.
+5. Go to the **Data** tab and click **Refresh All** to pull in the latest data from the underlying table.
+6. Use the **Year and Month slicers/timelines** on the dashboard to filter and explore the metrics interactively.
 
+---
+
+## 🚀 Future Work
 - Integrate real-time data using Power BI or a live database connection
 - Add predictive analytics (e.g., forecasting peak patient hours)
 - Build a mobile-friendly version of the dashboard
@@ -109,8 +136,6 @@ The final dashboard provides a single-page, decision-ready view of ER operations
 
 ---
 
-## 👤 Author
-
-**Sanika Shinde** <br>
-Data Analytics & ML Enthusiast | Python, SQL, Excel, Power BI, Tableau <br>
-📧 [sanikadshinde264@gmail.com] | 🔗 [linkedin.com/in/sanikadshinde264] 
+## 👤 Author & Contact
+**Sanika Shinde**<br>
+📧 [sanikadshinde264@gmail.com]| 🔗 [linkedin.com/in/sanikadshinde264]
