@@ -86,6 +86,8 @@ The dashboard consolidates all metrics into a single interactive view:
 - **Patients by Age Group:** Bar chart
 - **Patients by Department Referral:** Horizontal bar chart
 - **Month & Year Filters:** For dynamic, on-demand analysis
+---
+📊 Results
 
 <img width="959" height="539" alt="Dashboard" src="https://github.com/user-attachments/assets/d0245f21-cc7e-405d-a4a9-1545e06eb4be" />
 <img width="959" height="539" alt="Daily ER No  Of Patient" src="https://github.com/user-attachments/assets/11d3157a-4cb5-47cd-80f8-1dd869f53ee6" />
@@ -94,7 +96,7 @@ The dashboard consolidates all metrics into a single interactive view:
 
 ---
 
-## ✅ Results and Conclusion
+## ✅ Conclusion
 
 The final dashboard provides a single-page, decision-ready view of ER operations that would otherwise require manually parsing thousands of rows of raw data. It highlights operational pain points — such as delayed treatment rates and peak patient-load days — that hospital management can act on to improve patient flow and satisfaction.
 
