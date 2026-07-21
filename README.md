@@ -136,5 +136,5 @@ The final dashboard provides a single-page, decision-ready view of ER operations
 ---
 
 ## 👤 Author & Contact
-**Sanika Shinde**<br>
-📧 [sanikadshinde264@gmail.com]| 🔗 [linkedin.com/in/sanikadshinde264]
+**Sanika Shinde** <br>
+📧 [sanikadshinde264@gmail.com] | 🔗 [www.linkedin.com/in/sanikadshinde264] ]
