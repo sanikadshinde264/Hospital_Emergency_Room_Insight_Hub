@@ -1,6 +1,5 @@
 # 🏥 Hospital Emergency Room Insight Hub
 
-## 📝 One-Line Summary
 An end-to-end interactive Excel dashboard that analyzes Hospital Emergency Room (ER) operations — patient volume, wait times, satisfaction scores, admissions, and department referrals — to help hospital administrators make faster, data-driven decisions.
 
 ---
